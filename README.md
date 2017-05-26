@@ -1,4 +1,4 @@
-This is a BVH Motion Capture Data file viewer written in JavaScript (using WebGL and specifically the three.js library). See a demonstration at: https://fling.seas.upenn.edu/~emretan/cgi-bin/bvhlist.html .
+This is a BVH Motion Capture Data file viewer written in JavaScript (using WebGL and specifically the three.js library). 
 
 **Features**:
 - Supports any rotation order in the file.
