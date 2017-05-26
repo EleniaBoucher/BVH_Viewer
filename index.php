@@ -161,17 +161,17 @@
  		<div id="wrapper">
  			<div id="block">
  			  	<div id="bot">
-				        <p> To rotate the camera, hold ALT and click and drag on the canvas. 
-				        	To pan the camera, hold ALT and click and drag using the middle mouse button. 
-				        	To zoom in and out, use the mouse wheel or hold ALT and click and drag using the right mouse button.
+				        <p> Um die Kamera zu drehen, halten Sie ALT und klicken und ziehen auf die Leinwand.
+							Um die Kamera zu schwenken, halten Sie ALT gedrückt und klicken und ziehen mit der mittleren Maustaste.
+							Zum Vergrößern und Verkleinern verwenden Sie das Mausrad oder halten ALT und klicken und ziehen mit der rechten Maustaste.
 				        </p>
 			   	</div>
 			</div>
 			<div id="container">
 				   	<div id="bot">
-				        <p> To rotate the camera, hold ALT and click and drag on the canvas. 
-				        	To pan the camera, hold ALT and click and drag using the middle mouse button. 
-				        	To zoom in and out, use the mouse wheel or hold ALT and click and drag using the right mouse button.
+				        <p> Um die Kamera zu drehen, halten Sie ALT und klicken und ziehen auf die Leinwand.
+							Um die Kamera zu schwenken, halten Sie ALT gedrückt und klicken und ziehen mit der mittleren Maustaste.
+							Zum Vergrößern und Verkleinern verwenden Sie das Mausrad oder halten ALT und klicken und ziehen mit der rechten Maustaste.
 				        </p>
 			   		</div>
 			</div> 
